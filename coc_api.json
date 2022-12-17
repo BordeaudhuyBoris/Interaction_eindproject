@@ -631,6 +631,26 @@
       "previousClanRank": 29,
       "donations": 0,
       "donationsReceived": 25
+    },
+    {
+      "tag": "#G0PCLCRGJ",
+      "name": "laatst g",
+      "role": "member",
+      "expLevel": 32,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 772,
+      "versusTrophies": 50,
+      "clanRank": 30,
+      "previousClanRank": 30,
+      "donations": 0,
+      "donationsReceived": 0
     }
   ],
   "labels": [
